@@ -16,22 +16,7 @@ const Menu = props => (
                     <Link to="/UseEffect">useEffect()</Link>
                 </li>
                 <li>
-                    <Link to="/UseRef">useRef()</Link>
-                </li>
-                <li>
-                    <Link to="/UseMemo">useMemo()</Link>
-                </li>
-                <li>
-                    <Link to="/UseCallback">useCallback()</Link>
-                </li>
-                <li>
                     <Link to="/UseContext">useContext()</Link>
-                </li>
-                <li>
-                    <Link to="/UseReducer">useReducer()</Link>
-                </li>
-                <li>
-                    <Link to="/UseMeuHook">useMeuHook()</Link>
                 </li>
             </ul>
         </nav>
